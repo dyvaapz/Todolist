@@ -14,3 +14,4 @@ Aplikasi ini merupakan aplikasi daftar tugas (To-Do List) sederhana berbasis Flu
 - Aplikasi akan dijalankan di emulator atau perangkat fisik Android/iOS yang terhubung.
 ## Screenshot UI dan Tampilan :
 
+![image](https://github.com/user-attachments/assets/db151e34-a3b1-4820-81d8-e71cecdc0d21)
